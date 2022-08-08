@@ -1,0 +1,20 @@
+Project: Nurse Filler 
+Goal: Platform for Pharmacies to upload nurse reqeust 
+Why: Pharmacies have patients who need at home treatments like infusions and a nurse is required to administer it. Currently pharmacies send out request to staffing agineces in a very 
+fragmented way, text, call, email, fax, etc.  How do we streamline this with a webiste that they can easily add all the details and then submit once and several providers can access.   
+
+Stack: Python 
+
+Features: 
+Login, logout 
+4-6 routes 
+Header with navigation
+welcome video 
+
+
+
+
+Home : welcome page and login and singup 
+Pharmacy Request: PHarmacy input request, with dropdowns, text, radial box
+Request List: All of that pharmacies request and their staffings status 
+Details Page: Clikc through each request to see additional details and pt chart information etc. 
